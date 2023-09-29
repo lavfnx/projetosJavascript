@@ -25,4 +25,21 @@
     border-top-right-radius: 10px;
   }
   
- 
+
+
+.btn {
+background: rgb(255, 30, 105);
+color: rgb(0, 0, 0);
+width: 200px;
+height: 100px;
+margin: 10px;
+border-radius: 10px;
+font-size: 15px;
+ }
+
+ .btn:hover {
+  background-color: rgb(255, 114, 161);
+  color: rgb(255, 0, 85);
+  border: 2px solid rgb(255, 0, 85);
+  cursor: pointer;
+ }
